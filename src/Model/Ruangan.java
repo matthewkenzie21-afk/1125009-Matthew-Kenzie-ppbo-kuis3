@@ -1,5 +1,5 @@
 package Model;
 
-public class .java {
+public class Ruangan {
     
 }
