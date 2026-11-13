@@ -16,17 +16,26 @@ public class Mahasiswa {
     public String getNim() {
         return nim;
     }
+    public void setNim(String nim) {
+        this.nim = nim;
+    }
     public String getNama() {
         return nama;
+    }
+    public void setNama(String nama) {
+        this.nama = nama;
     }
     public String getEmail() {
         return email;
     }
-    public String getUmur() {
+    public void setEmail(String email) {
+        this.email = email;
+    }
+    public int getUmur() {
         return umur;
     }
-
-    
-
+    public void setUmur(int umur) {
+        this.umur = umur;
+    }
 
 }
