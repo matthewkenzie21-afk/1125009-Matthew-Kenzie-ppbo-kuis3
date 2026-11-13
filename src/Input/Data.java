@@ -1,5 +1,5 @@
 package Input;
 
-public class .java {
+public class Data {
     
 }
